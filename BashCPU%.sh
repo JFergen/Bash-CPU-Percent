@@ -1,6 +1,5 @@
 #! /bin/bash
 # Joseph Fergen
-# CSCE 3600.001 
 # 9/22/2019
 # Program that gets a percentage (1-99) from command line and outputs the current processes using more memory % than that number.
 
